@@ -24,75 +24,38 @@ I'm a passionate Software Developer and Educator with a unique background in com
 📫 How to reach me: M.Yasserbdd@proton.me
 
 🛠️ My Tech Stack & Skills
-Here are some of the technologies I work with:
+Languages:
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc" width="48" height="48" alt="C" />
-<br>C
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml" width="48" height="48" alt="HTML" />
-<br>HTML
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcss" width="48" height="48" alt="CSS" />
-<br>CSS
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-</tr>
-</table>
+Java, C, C++, PHP
+
+Web Development:
+
+HTML, CSS, JavaScript
+
+Databases:
+
+MySQL
+
+Tools & Environments:
+
+Git, GitHub, Linux
 
 🚀 My Projects
 Here are some of the projects I'm proud of. You can find more on my repositories page.
 
-Project Name
-
-Description
-
-Link
-
 🦷 Dental Appointment System
+Description: A full-stack web application that allows patients to book and manage dental appointments online, simplifying clinic workflow.
 
-A full-stack web application that allows patients to book and manage dental appointments online, simplifying clinic workflow.
+Technologies: PHP, MySQL, JavaScript, HTML, CSS.
 
-Link to Repo <!-- Add your link here -->
+<!-- Add a link to your repository here when it's ready -->
 
 🎮 Educational Java Game
+Description: An interactive game designed to teach fundamental programming concepts to beginners in an engaging and fun way.
 
-An interactive game designed to teach fundamental programming concepts to beginners in an engaging and fun way.
+Technologies: Java.
 
-Link to Repo <!-- Add your link here -->
+<!-- Add a link to your repository here when it's ready -->
 
 📊 My GitHub Stats
 <p align="center">
