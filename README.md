@@ -2,7 +2,8 @@
 
 # Hi there, I'm Yasser BOUDAD 👋
 
-### Software Developer & IT Teacher | Bridging the Gap Between Code and Classroom
+### EdTech Specialist & Full-Stack Developer
+*Combining Pedagogical Engineering with Scalable Web Architectures*
 
 </div>
 
@@ -22,11 +23,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Software Developer** and **Educator** with a unique background in computer science and pedagogy. My goal is to build efficient, user-friendly applications that solve real-world problems while also making technology accessible and understandable for everyone. My experience in teaching allows me to approach development with a strong focus on user experience and clarity.
+I am a **Master's Student in Educational Sciences & Emerging Technologies** at ENS Marrakech. My work bridges the gap between complex software engineering and effective pedagogy.
 
-- 🔭 I’m currently working on enhancing my skills in **full-stack development** and exploring new **educational technologies**.
-- 🌱 I’m currently learning more about **mobile development** and **AI integration** in applications.
-- 💬 Ask me about **Java, PHP, C++,** or how to design effective **technical learning materials**.
+I specialize in building **scalable EdTech solutions** and have experience architecting systems that support **10,000+ concurrent users**. I am currently focused on the intersection of cybersecurity and e-learning systems.
+
+- 🔭 I’m currently working on **Full-Stack EdTech platforms** using **Next.js** and **Laravel**.
+- 🌱 I’m deeply interested in **Cybersecurity in Educational Technology** and **Digital Pedagogy**.
+- 🎓 I hold a **Licence in Education (Informatics)** and am pursuing my Master's specializing in **Emerging Technologies**.
+- 💬 Ask me about **Pedagogical Engineering**, **React/Next.js Architecture**, or **Secure API Design**.
 
 ---
 
@@ -34,7 +38,7 @@ I'm a passionate **Software Developer** and **Educator** with a unique backgroun
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,php,html,css,javascript,mysql,git,linux,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,typescript,tailwind,php,mysql,java,c,cpp,git,linux&perline=6" alt="Yasser's Tech Stack" />
   </a>
 </p>
 
@@ -42,23 +46,30 @@ I'm a passionate **Software Developer** and **Educator** with a unique backgroun
 
 ### 🚀 Featured Projects
 
-> Here are some of the projects I'm proud of. You can find more on my repositories page.
+#### 🛒 SOS Pièce Auto (Full-Stack E-commerce)
+> *Scalable platform optimized for high traffic.*
+- **Role:** Full-Stack Developer & Architect.
+- **Key Feat:** Architected a backend supporting **10,000+ users** with a secure RESTful API.
+- **Stack:** `Next.js`, `React`, `TypeScript`, `Laravel`, `MySQL`.
 
 #### 🦷 Dental Appointment System
-- **Description:** A full-stack web application that allows patients to book and manage dental appointments online, simplifying clinic workflow.
-- **Technologies Used:** `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`.
-<br/>
+> *Digital management solution for healthcare professionals.*
+- **Role:** Full-Stack Developer.
+- **Key Feat:** Complete CRUD lifecycle for appointment management and patient records.
+- **Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`.
 
 #### 🎮 Educational Java Game
-- **Description:** An interactive game designed to teach fundamental programming concepts to beginners in an engaging and fun way.
-- **Technologies Used:** `Java`, `JavaFX` / `Swing`.
+> *Interactive desktop game for teaching programming concepts.*
+- **Role:** Game Developer & Instructional Designer.
+- **Key Feat:** Designed to engage beginner learners using gamified pedagogical strategies.
+- **Stack:** `Java`, `JavaFX/Swing`.
+
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <i><b>Note:</b> These stats are dynamically generated and may take a moment to load.</i>
-  <br/><br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KOSYSH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yasser's GitHub Stats"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=KOSYSH&theme=dracula" alt="Yasser's GitHub Streak"/>
