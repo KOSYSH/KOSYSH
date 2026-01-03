@@ -27,7 +27,7 @@ I am a **Master's Student in Educational Sciences & Emerging Technologies** at E
 
 I specialize in building **scalable EdTech solutions** and have experience architecting systems that support **10,000+ concurrent users**. I am currently focused on the intersection of cybersecurity and e-learning systems.
 
-- 🔭 I’m currently working on **Full-Stack EdTech platforms** using **Next.js** and **Laravel**.
+- 🔭 I’m currently working on a **Full-Stack E-commerce platform** ("SOS Pièce Auto") using **Next.js** and **Laravel**.
 - 🌱 I’m deeply interested in **Cybersecurity in Educational Technology** and **Digital Pedagogy**.
 - 🎓 I hold a **Licence in Education (Informatics)** and am pursuing my Master's specializing in **Emerging Technologies**.
 - 💬 Ask me about **Pedagogical Engineering**, **React/Next.js Architecture**, or **Secure API Design**.
