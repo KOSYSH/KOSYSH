@@ -65,14 +65,3 @@ I specialize in building **scalable EdTech solutions** and have experience archi
 - **Stack:** `Java`, `JavaFX/Swing`.
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KOSYSH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yasser's GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=KOSYSH&theme=dracula" alt="Yasser's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOSYSH&layout=compact&langs_count=8&theme=dracula" alt="Yasser's Top Languages"/>
-</p>
